@@ -17,7 +17,12 @@
 
 ### Written Guides
 
+* [Wolfram MathWorld](http://mathworld.wolfram.com/GeometricSeries.html)
+* [Wikipedia](https://en.wikipedia.org/wiki/Geometric_series)
+
 ### Video Guides
+
+* [Sequences and Series (Part 2) By Khan Academy](https://www.youtube.com/watch?v=U_8GRLJplZg)
 
 ### Interview Questions
 (Missing interview questions)
