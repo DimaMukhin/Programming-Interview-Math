@@ -1,6 +1,6 @@
 ### Topics
 
-* [permutations-and-combinations](https://github.com/DimaMukhin/Programming-Interview-Math/blob/master/guides/premutations-and-combinations.md)
+* [permutations-and-combinations](https://github.com/DimaMukhin/Programming-Interview-Math/blob/master/guides/permutations-and-combinations.md)
 * [sequences-and-series](https://github.com/DimaMukhin/Programming-Interview-Math/blob/master/guides/sequences-and-series.md)
 
 ### Practice
