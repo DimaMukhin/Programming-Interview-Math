@@ -3,7 +3,7 @@
 
 ### Written Guides
 
-* [Wolfarm MathWorld](http://mathworld.wolfram.com/Permutation.html)
+* [Wolfram MathWorld](http://mathworld.wolfram.com/Permutation.html)
 * [Wikipedia](https://en.wikipedia.org/wiki/Permutation)
 
 ### Video Guides
@@ -22,7 +22,7 @@
 
 ### Video Guides
 
-* [Combinations by Khan Academ](https://www.youtube.com/watch?v=bCxMhncR7PU&t=415s)
+* [Combinations by Khan Academy](https://www.youtube.com/watch?v=bCxMhncR7PU&t=415s)
 
 ### Interview Questions
 (missing interview questions)
